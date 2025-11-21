@@ -1,0 +1,41 @@
+- plan:
+    + napraviti sve oblike rucno:
+        + staviti ih u listu
+    + ubaciti oblik u matricu:
+        + staviti da je oblik na vrhu table
+    + napraviti da oblik pada:
+        + oblik pada sam
+        + oblik pada na komandu
+    + napraviti pomjeranje lijevo-desno
+    + napraviti ogranicenje kretanja bloka:
+        + sudar sa desnim zidom
+        + sudar sa lijevim zidom
+        + sudar sa donjim zidom
+        + sudar sa drugim blokom
+    + napraviti ogranicenje rotacije bloka:
+        + rotacija kod desnog zida
+        + rotacija kod lijevog zida
+        + rotacija kod donjeg zida
+        + rotacija kod blokova
+    - napraviti ubrzavanje padanja
+    + sudar sa vec postojecim kvadratima
+    + vidjeti kad je popunjena linija
+    + obrisatu popunjeni red
+    + uraditi skor
+    + uraditi levele
+    + uraditi prikaz figurice sa strane
+    - za kasnije:
+        + napraviti da se odmah stvori sledeca figurica
+        + precizno pomjeranje
+        + graficki prikaz blokova
+        + graficki prikaz table
+        + izolovati png slova
+        + graficki prikaz rezultata
+        + napraviti meni igre:
+            + naslov
+            + najbolji rezultat
+            + najveci level
+            + najveci broj linija
+        - napraviti kraj igre
+        + graficki prikaz nivoa
+        (http://www.kosbie.net/cmu/fall-08/15-100/handouts/notes-tetris/2_3_CreatingTheFallingPiece.html)
