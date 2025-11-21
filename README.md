@@ -1,12 +1,12 @@
 # # RetroPyTetris
 
-RetroPyTetris is a classic Tetris clone made entirely in Python. It was one of my earlier projects, written before I learned how to organize code into files and folders, but it still plays a fully functional game of Tetris you can enjoy or hack on!
+RetroPyTetris is a classic Tetris clone made entirely in Python and PyGame. It was one of my earlier projects, written before I learned how to organize code into files and folders, but it still plays a fully functional game of Tetris you can enjoy or hack on!
 
 ## 🎮 Features
 
 - Classic falling-block puzzle gameplay
 - Simple keyboard controls (see below)
-- Colorful retro graphics using Python’s libraries
+- Colorful retro graphics using
 - All code in one place—easy to explore for beginners
 
 ## 🕹️ Controls
@@ -14,8 +14,7 @@ RetroPyTetris is a classic Tetris clone made entirely in Python. It was one of m
 - **Left/Right Arrow:** Move block left/right
 - **Up Arrow:** Rotate block
 - **Down Arrow:** Speed up block
-- **Space:** Drop block instantly (if implemented)
-- **Esc:** Quit game
+- **Mouse Click:** Pause game
 
 ## 📝 How to Run
 
@@ -35,8 +34,7 @@ All code is in a single file for this project—just open and run `TetrisSimple.
 
 ## 🖼️ Screenshot
 
-![RetroPyTetris Gameplay](images/gameplay.jpg)
-*Update the path and add your own screenshot image*
+![RetroPyTetris Gameplay](images/gameplay.JPG)
 
 ## 💡 Notes
 
