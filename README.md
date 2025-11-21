@@ -22,13 +22,13 @@ RetroPyTetris is a classic Tetris clone made entirely in Python. It was one of m
 1. Make sure you have Python 3 installed.
 2. Install any dependencies (listed in `requirements.txt` or in the code):
 
-'''
+```
 pip install -r requirements.txt
-'''
+```
 Or manually:
-'''
+```
 pip install pygame
-'''
+```
 ## 📦 Project Structure
 
 All code is in a single file for this project—just open and run `TetrisSimple.py`.
