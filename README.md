@@ -1,4 +1,4 @@
-# # RetroPyTetris
+## RetroPyTetris
 
 RetroPyTetris is a classic Tetris clone made entirely in Python and PyGame. It was one of my earlier projects, written before I learned how to organize code into files and folders, but it still plays a fully functional game of Tetris you can enjoy or hack on!
 
